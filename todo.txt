@@ -1,1 +1,41 @@
-init
+Strategy and business planning
+
+
+Validate SaaS agency idea:
+ 
+Outcome:
+See if there is any interest in the danish market for external development (me) of SaaS products.
+
+Plan:
+Setup landingpage that should track and gather emails.
+There will be a subpage with blog content to support this in terms of SEO.
+This should run for 90 days to allow both google to index site and be able to gather sufficient data
+
+Technical execution:
+ - Setup sveltekit frontend
+ - Add sanity 
+ - Add umami analytics
+ - Research what mail gathering tool to use (mailchimp maybe?)
+ - Create routes (home and blog + blog/slug)
+ - Find out what design elements the front page should entail
+    - Nav (home and blog page)
+    - Hero (Title, description, CTA (takes the user down to the form))
+    - Some visual element like the Plan -> Build -> Launch -> Scale -> Support
+    - Mail signup 
+    - And then some supportive blocks that relies mainly on text and maybe some visual element
+    - Footer
+ - Blog list shown as cards, with some details on it, title, desc, published date, etc.
+ - Blog post should render RTE from sanity without much customization, primary focus is SEO
+ - SEO optimization
+ - Head tags
+ - Favicon
+ - Sitemap.xml
+ - Google Search console
+
+
+Success metrics:
+ - 10+ qualified email signups
+ - 2-3 inquiries about the service
+ - 300+ unique visitors
+ 
+
