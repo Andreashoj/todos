@@ -12,8 +12,8 @@ There will be a subpage with blog content to support this in terms of SEO.
 This should run for 90 days to allow both google to index site and be able to gather sufficient data
 
 Technical execution:
- - Setup sveltekit frontend
- - Add sanity 
+ - Setup sveltekit frontend [X]
+ - Add sanity [X]
  - Add umami analytics
  - Research what mail gathering tool to use (mailchimp maybe?)
  - Create routes (home and blog + blog/slug)
