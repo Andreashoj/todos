@@ -11,6 +11,8 @@ Setup landingpage that should track and gather emails.
 There will be a subpage with blog content to support this in terms of SEO.
 This should run for 90 days to allow both google to index site and be able to gather sufficient data
 
+Design Inspiration: https://railway.app
+
 Technical execution:
  - Setup sveltekit frontend [X]
  - Add sanity [X]
